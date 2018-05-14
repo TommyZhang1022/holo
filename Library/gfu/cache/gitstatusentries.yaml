@@ -12,32 +12,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-05-14T14:58:28.2282690-07:00
-  initializedAtString: 2018-05-14T14:58:26.2103400-07:00
+  lastUpdatedAtString: 2018-05-14T14:00:50.9301150-07:00
+  initializedAtString: 2018-05-14T13:57:26.0290140-07:00
   entries:
-  - path: .vs/holocopter/xs/UserPrefs.xml
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/.vs/holocopter/xs/UserPrefs.xml
-    projectPath: .vs/holocopter/xs/UserPrefs.xml
+  - path: Assets/helicopter_rotor 1.unity
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Assets/helicopter_rotor
+      1.unity
+    projectPath: Assets/helicopter_rotor 1.unity
     originalPath: 
-    status: 1
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
     staged: 0
   - path: Library/CrashedAssetImports.txt
     fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/CrashedAssetImports.txt
     projectPath: Library/CrashedAssetImports.txt
     originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/CurrentLayout.dwlt
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/EditorInstance.json
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/gfu/cache/branches.yaml
@@ -56,94 +51,4 @@ MonoBehaviour:
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Temp/Assembly-CSharp.dll
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/Assembly-CSharp.dll
-    projectPath: Temp/Assembly-CSharp.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/Assembly-CSharp.dll.mdb
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/Assembly-CSharp.dll.mdb
-    projectPath: Temp/Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-182c2a5e5a2ff4a82abb361b58dd9c15
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-182c2a5e5a2ff4a82abb361b58dd9c15
-    projectPath: Temp/UnityTempFile-182c2a5e5a2ff4a82abb361b58dd9c15
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-3600bc7efa9174996a26d157507218c8
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-3600bc7efa9174996a26d157507218c8
-    projectPath: Temp/UnityTempFile-3600bc7efa9174996a26d157507218c8
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-6093819150d054dec9d79918302f1a17
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-6093819150d054dec9d79918302f1a17
-    projectPath: Temp/UnityTempFile-6093819150d054dec9d79918302f1a17
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-8d45821a96e9c48189bc2952acb88402
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-8d45821a96e9c48189bc2952acb88402
-    projectPath: Temp/UnityTempFile-8d45821a96e9c48189bc2952acb88402
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-bb79e9c1834054cb3900bedd69ac7d01
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-bb79e9c1834054cb3900bedd69ac7d01
-    projectPath: Temp/UnityTempFile-bb79e9c1834054cb3900bedd69ac7d01
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Temp/UnityTempFile-c283176a3472041f08075c7c38a1b884
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-c283176a3472041f08075c7c38a1b884
-    projectPath: Temp/UnityTempFile-c283176a3472041f08075c7c38a1b884
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-e825585612c674cb59b954e3ea5c65f1
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-e825585612c674cb59b954e3ea5c65f1
-    projectPath: Temp/UnityTempFile-e825585612c674cb59b954e3ea5c65f1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-eb9caf9e76bbb47e7bb143c6f42f80ca
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-eb9caf9e76bbb47e7bb143c6f42f80ca
-    projectPath: Temp/UnityTempFile-eb9caf9e76bbb47e7bb143c6f42f80ca
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp/UnityTempFile-ec820f545809f436da54fe381ffc10e5
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Temp/UnityTempFile-ec820f545809f436da54fe381ffc10e5
-    projectPath: Temp/UnityTempFile-ec820f545809f436da54fe381ffc10e5
-    originalPath: 
-    status: 1
     staged: 0
