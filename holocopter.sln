@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holocopter", "Assembly-CSharp.csproj", "{5FB40265-2EC4-A05A-DFC4-BE2162FD38FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holocopter", "Assembly-CSharp-firstpass.csproj", "{1A9C60F6-9217-5350-E536-BBB5736420A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holocopter", "Assembly-CSharp-Editor.csproj", "{23623DEA-9F3C-930F-CD5D-1D5767554A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB40265-2EC4-A05A-DFC4-BE2162FD38FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB40265-2EC4-A05A-DFC4-BE2162FD38FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB40265-2EC4-A05A-DFC4-BE2162FD38FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB40265-2EC4-A05A-DFC4-BE2162FD38FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9C60F6-9217-5350-E536-BBB5736420A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9C60F6-9217-5350-E536-BBB5736420A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9C60F6-9217-5350-E536-BBB5736420A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9C60F6-9217-5350-E536-BBB5736420A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23623DEA-9F3C-930F-CD5D-1D5767554A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23623DEA-9F3C-930F-CD5D-1D5767554A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23623DEA-9F3C-930F-CD5D-1D5767554A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23623DEA-9F3C-930F-CD5D-1D5767554A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
