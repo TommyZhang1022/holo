@@ -12,12 +12,43 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-05-14T13:59:14.5409100-07:00
+  lastUpdatedAtString: 2018-05-14T14:00:50.9301150-07:00
   initializedAtString: 2018-05-14T13:57:26.0290140-07:00
   entries:
-  - path: holocopter.sln
-    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/holocopter.sln
-    projectPath: holocopter.sln
+  - path: Assets/helicopter_rotor 1.unity
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Assets/helicopter_rotor
+      1.unity
+    projectPath: Assets/helicopter_rotor 1.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
     originalPath: 
     status: 1
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/xinpei_zhang/Documents/unity/holocopter/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
     staged: 0
